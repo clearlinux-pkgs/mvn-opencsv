@@ -4,7 +4,7 @@
 #
 Name     : mvn-opencsv
 Version  : 2.3
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar
 Source0  : https://repo1.maven.org/maven2/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar
 Source1  : https://repo1.maven.org/maven2/net/sf/opencsv/opencsv/2.3/opencsv-2.3.pom
